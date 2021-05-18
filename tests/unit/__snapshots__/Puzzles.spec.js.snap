@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mount Puzzles component 1`] = `
+<div id="puzzles-component">
+  <h1>Select a puzzle</h1>
+  <div class="puzzle"><button class="play-button">
+      <div><img src="">
+        <h2>Owl</h2>
+      </div>
+    </button>
+    <div>
+      <h1>Records</h1>
+    </div>
+  </div>
+  <div class="puzzle"><button class="play-button">
+      <div><img src="">
+        <h2>Egg cozy</h2>
+      </div>
+    </button>
+    <div>
+      <h1>Records</h1>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SliderPuzzle gets rendered with eggcozy object correctly 1`] = `
+<h3>"Egg cozy" puzzle (25 pieces)</h3>
+<h4>Elapsed Time: </h4>
+<!--v-if-->
+<div id="puzzle"><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""></div><button id="close-button">X</button>
+`;
+
+exports[`SliderPuzzle gets rendered with owl object correctly 1`] = `
+<h3>"Owl" puzzle (25 pieces)</h3>
+<h4>Elapsed Time: </h4>
+<!--v-if-->
+<div id="puzzle"><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""></div><button id="close-button">X</button>
+`;
+
+exports[`user has won the game and can restart game 1`] = `
+<h3>"Owl" puzzle (25 pieces)</h3>
+<h4>Elapsed Time: </h4>
+<div class="user-win-game">
+  <h3>You have solved the puzzle!!!</h3><button>Play again</button>
+</div>
+<div id="puzzle"><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""></div><button id="close-button">X</button>
+`;
+
+exports[`user has won the game and can restart game 2`] = `
+<h3>"Owl" puzzle (25 pieces)</h3>
+<h4>Elapsed Time: </h4>
+<!--v-if-->
+<div id="puzzle"><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""></div><button id="close-button">X</button>
+`;
