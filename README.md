@@ -25,3 +25,5 @@ npm run build
 ```
 npm run test:unit
 ```
+
+![Puzzle](puzzle.JPG)
